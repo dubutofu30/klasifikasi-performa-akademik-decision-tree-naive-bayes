@@ -6,6 +6,17 @@ Performa akademik merupakan hal yang sangat relevan dengan kehidupan mahasiswa. 
 
 Project ini bertujuan untuk menganalisis dan mengklasifikasikan performa akademik mahasiswa berdasarkan kebiasaan harian menggunakan perbandingan dua algoritma Machine Learning: **Decision Tree** dan **Gaussian Naive Bayes**.
 
+---
+
+## 👥 Tim Peneliti
+
+- **Anggota Kelompok:**
+  - Lisa Damayanti
+  - Nasya Aulia 
+  - Aprilia Rachel
+
+---
+
 
 ## 📊 Dataset & Fitur
 
